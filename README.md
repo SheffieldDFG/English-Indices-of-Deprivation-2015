@@ -14,4 +14,4 @@ This repository contains the data, analyses and results generated from data coll
 
 The data is presented by postcode and by Lower Layer Super Output Area (LSOA). 
 
-The data can be found within the file "deprivation-data.csv"
+The data can be found within the file [`deprivation-data.csv`](deprivation-data.csv)
